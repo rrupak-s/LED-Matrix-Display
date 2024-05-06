@@ -18,8 +18,8 @@ LED matrix project that I made in my first year of engineering.
 
 3. Controller Circuit
 
-![matrixfront](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/circuit.png)
+![circuit](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/circuit.png)
 
 ## Snake Game in the Matrix
 
-![matrixfront](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/working.png)
+![working](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/working.png)
