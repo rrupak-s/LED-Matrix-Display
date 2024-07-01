@@ -4,7 +4,7 @@ This repository hosts the firmware and hardware design files for an LED matrix g
 
 ## Complete Project Setup 
 
-![completesetup](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/completesetup.jpg)
+![completesetup](Docs/completesetup.jpg)
 
 ## Circuit Design
 
