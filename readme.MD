@@ -10,19 +10,19 @@ This repository hosts the firmware and hardware design files for an LED matrix g
 
 1. Matrix Circuit Back
 
-![matrixback](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Circuit/matrixback.jpg)
+![matrixback](Docs/matrixback.jpg)
 
 2. Matrix Circuit Front
 
-![matrixfront](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Docs/matrixfront.png)
+![matrixfront](Docs/matrixfront.png)
 
 3. Controller Circuit
 
-![circuit](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Docs/circuit.png)
+![circuit](Docs/circuit.png)
 
 ## Snake Game in the Matrix
 
-![working](https://github.com/rrupak-s/LED-Matrix-Display/blob/main/Docs/working.png)
+![working](Docs/working.png)
 
 ## Demonstration video
 
